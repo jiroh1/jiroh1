@@ -16,12 +16,13 @@ i'm Hoon, and interested with Data analysis.
 
 ![Hoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiroh1&theme=great-gatsby&show_icons=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiroh1&langs_count=3&theme=great-gatsby)
 
+<!--
 <a href="https://github.com/jiroh1/Playdata_project.git">
  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=jiroh1&repo=playdata_project&theme=great-gatsby" />
 </a> <a href="https://github.com/jiroh1/pythonpractice.git">
   <img  src="https://github-readme-stats.vercel.app/api/pin/?username=jiroh1&repo=pythonpractice&theme=great-gatsby" />
 </a>
-
+-->
 <br>
 <br>
 <p align="center">

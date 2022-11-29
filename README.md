@@ -12,7 +12,9 @@ i'm Hoon, interested in Data analysis,ML,DL and everything about data.
 <br>
 <h2>  💻 My git status</h2>
 <div align="center"> 
-<img src= "https://github-readme-stats.vercel.app/api?username=jiroh1&theme=great-gatsby&show_icons=true" >
+ 
+![Hoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiroh1&show_icons=true&theme=great-gatsby)
+<!-- <img src= "https://github-readme-stats.vercel.app/api?username=jiroh1&theme=great-gatsby&show_icons=true" > -->
 <!-- ![Hoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiroh1&theme=great-gatsby&show_icons=true)   -->
 <br>
 <br>
